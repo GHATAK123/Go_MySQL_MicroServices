@@ -1,7 +1,7 @@
 package routes
 
 import (
-	"github.com/ghatu/request_management/pkg/controllers"
+	"github.com/ghatu/go-requestManagement/pkg/controllers"
 	"github.com/gorilla/mux"
 )
 
